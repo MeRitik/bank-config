@@ -1,11 +1,11 @@
 build:
-  version: "2.0"
+  version: "2.1"
 
 loans:
   message: "Welcome to QA Environment - Bank Loan Services"
   contactDetails:
-    name: "Bob Wilson"
+    name: "Bobby Wilson"
     email: "qa.support@bank.com"
   onCallSupport:
-    - +1-999-1234567
+    - +1-987-1234567
     - +1-999-7654321
