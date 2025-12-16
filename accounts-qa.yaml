@@ -1,8 +1,8 @@
 build:
-  version: "2.1"
+  version: "2.2"
 
 accounts:
-  message: "Welcome to QA Environment - Bank Account Services"
+  message: "Welcome to Quality Assurance Environment - Bank Account Services"
   contactDetails:
     name: "QA Manager"
     email: "qa.support@bank.com"
