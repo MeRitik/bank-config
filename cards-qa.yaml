@@ -1,9 +1,9 @@
 build:
-  version: "2.0"
+  version: "2.2"
 
 
 cards:
-  message: "Welcome to QA Environment - Bank Cards's related queries"
+  message: "Welcome to Quality Assurance Environment - Bank Cards's related queries"
   contactDetails:
     name: "Aditya Bansal"
     email: "cardsupport@mybank.com"

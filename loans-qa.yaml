@@ -1,8 +1,8 @@
 build:
-  version: "2.0"
+  version: "2.2"
 
 loans:
-  message: "Welcome to QA Environment - Bank Loan Services"
+  message: "Welcome to Quality Assurance Environment - Bank Loan Services"
   contactDetails:
     name: "Bob Wilson"
     email: "qa.support@bank.com"
