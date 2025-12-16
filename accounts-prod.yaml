@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Prod Environment - Bank Account Services"
   contactDetails:
     name: "John Smith"
-    email: "accounts.support@bank.com"
+    email: "{cipher}20283141a363f3b6e859c18b5e8efd58ea22239c8d8b6f0dc4f42715817f4bc26af0f3fbf2e95a7c3a9905c00d64bdbd"
   onCallSupport:
     - +1-555-0123456
     - +1-555-6543210
