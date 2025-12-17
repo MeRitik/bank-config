@@ -1,5 +1,5 @@
 build:
-  version: "2.2"
+  version: "2.3"
 
 accounts:
   message: "Welcome to Quality Assurance Environment - Bank Account Services"
@@ -7,5 +7,5 @@ accounts:
     name: "QA Manager"
     email: "qa.support@bank.com"
   onCallSupport:
-    - +91-000-0000000
+    - +91-333-4321123
     - +91-222-1233210
