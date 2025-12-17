@@ -5,7 +5,7 @@ build:
 cards:
   message: "Welcome to QA Environment - Bank Cards's related queries"
   contactDetails:
-    name: "Aditya Bansal"
+    name: "Dwight Schrute"
     email: "cardsupport@mybank.com"
     phone: "+91-9876123456"
   onCallSupport:
