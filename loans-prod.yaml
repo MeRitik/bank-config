@@ -1,10 +1,10 @@
 build:
-  version: "1.0"
+  version: "2.0"
 
 loans:
   message: "Welcome to Prod Environment - Bank Loan Services"
   contactDetails:
-    name: "John Smith"
+    name: "Dwayne Smith"
     email: "accounts.support@bank.com"
   onCallSupport:
     - +1-555-0123456
